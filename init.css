@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#wrapper {
+	width:100%;
+	height:100%;	
+	top:0;left:0;
+	overflow:hidden;
+}
+
+#mask {
+	width:100%;
+	height:500%;
+	overflow:hidden;
+	}
+.item {
+	width:100%;
+	height:20%;
+	display:block;
+	}	
+	
+	
+	.content {
+        padding:22px 30px 29px 25px;
+		width:882px;
+		width:100%;
+		height:100%;
+		position:relative;
+	}
